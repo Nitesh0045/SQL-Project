@@ -3,10 +3,10 @@
 # Healthcare SQL Project
 
 ## Table of Contents
--[Project Overview](#Project-Overview)
--[Queries and Objectives](#Queries-and-Objectives)
--[Features](#Features)
--[Tools and Technologies](#Tools-and-Technologies)
+- [Project Overview](#Project-Overview)
+- [Queries and Objectives](#Queries-and-Objectives)
+- [Features](#Features)
+- [Tools and Technologies](#Tools-and-Technologies)
 
 
 
@@ -81,18 +81,6 @@ Contributions are welcome! If you have additional queries, optimizations, or ins
 
 ---
 
-## License
-[MIT License](LICENSE)
-
----
-
-## Acknowledgments
-- [Data source or inspiration, if any]
-- Contributors and collaborators who helped with the project.
-
----
-
-Feel free to explore and adapt this project for your healthcare analytics needs!
 
 
 
