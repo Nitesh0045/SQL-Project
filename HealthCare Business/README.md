@@ -1,7 +1,14 @@
 ![Health-Care-Poster](healthcare.jpg)
 
-
 # Healthcare SQL Project
+
+## Table of Contents
+-[Project Overview](#Project-Overview)
+-[Queries and Objectives](#Queries-and-Objectives)
+-[Features](#Features)
+-[Tools and Technologies](#Tools-and-Technologies)
+
+
 
 ## Project Overview
 This project focuses on using SQL to analyze healthcare data, identify trends, and evaluate key metrics. The goal is to derive actionable insights that can improve decision-making in the healthcare sector. The project consists of a series of queries targeting financial risks, patient behaviors, payer contributions, and procedure analysis.
