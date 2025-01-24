@@ -1,2 +1,2 @@
-![Health-Care-Poster](HealthCare-Business/healthcare.jpg)
+![Health-Care-Poster](healthcare.jpg)
 
