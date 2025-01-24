@@ -55,7 +55,7 @@ This project focuses on using SQL to analyze healthcare data, identify trends, a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/healthcare-sql-project.git
+   git clone [https://github.com/Nitesh0045/SQL-Project/tree/main/HealthCare%20Business]
    ```
 
 2. Import the SQL scripts into your preferred database management system.
