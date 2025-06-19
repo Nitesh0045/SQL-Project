@@ -1,1 +1,1 @@
-![Ecommerce-wallpaper](E-commerce/ecommerce wallpaper.png)
+![Ecommerce-wallpaper](E-commerce/wallpaper.png)
